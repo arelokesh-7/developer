@@ -1,0 +1,10 @@
+# ignoreing all log files
+*.log
+
+# ignoring all env files
+*.env
+
+# ignoring all the node packegs  and modules
+node_modules
+package-lock.json
+
